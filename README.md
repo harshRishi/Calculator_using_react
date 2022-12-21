@@ -1,1 +1,1 @@
-Function based calculator project in React by Saurabh Singh
+Function based calculator project in React by Harsh Rishiwal
